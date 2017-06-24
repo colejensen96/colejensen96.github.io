@@ -14,11 +14,6 @@ Syntax highlighted code block
 # Bri
 ## is a
 ### boob
+#### ;)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold
+- 
