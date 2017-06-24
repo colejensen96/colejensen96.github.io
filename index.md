@@ -16,4 +16,4 @@ Syntax highlighted code block
 ### boob
 #### ;)
 
-- 
+<button type="button">Click Me!</button>
