@@ -13,3 +13,6 @@ You can use the [editor on GitHub](https://github.com/colejensen96/colejensen96.
 </div><a target="_blank" href="http://free-web-tools.com" style="text-decoration:none;bottom:0;left:10px;font-size:5pt;color:gray;position:absolute">free web tools</a><a target="_blank" href="http://www.htmlfreecodes.com" style="font-size: 8pt; text-decoration: none">Html Codes</a>
 
 <!-- Search Google --> <center> 
+<font size="3"color="red">This is some text!</font>
+<font size="2"color="blue">This is some text!</font>
+<font face="verdana"color="green">This is some text!</font>
