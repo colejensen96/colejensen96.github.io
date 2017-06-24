@@ -17,3 +17,8 @@ Syntax highlighted code block
 #### ;)
 
 <button type="button">Click Me!</button>
+{{ site.time | date_to_string }}
+
+07 Nov 2008
+
+
