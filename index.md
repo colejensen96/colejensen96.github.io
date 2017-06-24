@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/colejensen96/colejensen96.
 
 # Bri
 ## is a
-### <boob p {color: #ff6600; }>
+### boob 😂😎😙
 
 #### ;)
 
