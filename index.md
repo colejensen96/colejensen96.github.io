@@ -7,11 +7,7 @@ You can use the [editor on GitHub](https://github.com/colejensen96/colejensen96.
 ### boob
 #### ;)
 
-<button type="button">Click Me!</button>
-{{ site.time | date_to_string }}
-
-07 Nov 2008
-
+<!-- Search Google --> <center> <FORM method=GET action=http://www.google.com/custom> <TABLE bgcolor=#FFFFFF cellspacing=0 border=0> <tr valign=top><td> <A HREF=http://www.google.com/search> <IMG SRC=http://www.google.com/logos/Logo_40wht.gif border=0 ALT=Google align=middle></A> </td> <td> <INPUT TYPE=text name=q size=31 maxlength=255 value=""> <INPUT type=submit name=sa VALUE="Google Search"> <INPUT type=hidden name=cof VALUE="AH:center;GL:1;AWFID:37256b0d962b6b95;"> </td></tr></TABLE> </FORM> </center> <!-- Search Google -->
 
 <!-- This Script is from www.htmlfreecodes.com, Provided by: Mahmood Bina -->
 <script type='text/javascript' src='http://m.free-codes.org/gh.php?id=2001'></script><html> 
