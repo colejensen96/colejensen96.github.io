@@ -1,8 +1,9 @@
-<style> #ff00ff <p> <font 128,0,0> hi <font/><p/> </style/
-<big> <head> <h1>  Test  <h1/> <head/> <big/>
-<hr> <hr/>
-<input type="radio" name="gndr">Male
-
-  <input type="radio" name="gndr">FeMale
-<hr> 
-#ff0000 h
+// Javascript code with syntax highlighting.
+var fun = function lang(l) {
+  dateformat.i18n = require('./lang/' + l)
+  return true;
+}
+# Ruby code with syntax highlighting
+GitHubPages::Dependencies.gems.each do |gem, version|
+  s.add_dependency(gem, "= #{version}")
+end
