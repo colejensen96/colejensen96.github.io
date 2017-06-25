@@ -1,4 +1,4 @@
-<p> <font> hi <font/><p/>
+<p> <font 128,0,0> hi <font/><p/>
 <big> <head> <h1>  Test  <h1/> <head/> <big/>
 <hr> <hr/>
 
