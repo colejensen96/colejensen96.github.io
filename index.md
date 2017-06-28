@@ -1,5 +1,21 @@
-<canvas id="canvas" style="position : absolute; top : 0px; left : 0px;"></canvas>
-<script type="text/javascript" src="http://sheepeuh.com/rain/dat.gui.js"></script>
-<div style="position : absolute; bottom : 0px; left : 0px; margin : 20px; padding : 5px; background-color:#ce3635;">
-  <a href="http://sheepeuh.com" style="color: white; text-decoration : none; font-family: 'Lato', sans-serif; text-shadow: 1px 1px 1px black;">Me</a>
-</div>
+
+@echo off
+title AHHHHHH
+color 02
+echo This Matrix Affect was created by Superman
+echo This program will shut down your computer!
+echo The Matrix Effect begins in
+ping -n 2 127.0.0.1>nul
+echo 5
+ping -n 2 127.0.0.1>nul
+echo 4
+ping -n 2 127.0.0.1>nul
+echo 3
+ping -n 2 127.0.0.1>nul
+echo 2
+ping -n 2 127.0.0.1>nul
+echo 1
+
+:superman
+echo %random%%random%%random%%random%%random%%random%%random%%random%
+goto superman
